@@ -1,5 +1,6 @@
 # Welcome to **Daycare - Student Registration and Management System**
 This is a comprehensive solution to manage student registration, immunization records and compliance with state regulations for daycare center. Our system allows you to easily enroll students, track annual registration renewal and immunization anniversaries, and assign students and teachers to groups and classrooms. We have built this project using Java Swing for creating the user-friendly GUI.
+Screenshot showing the first tab of our Daycare Project-
 ![Screenshot of My Project](screenshot1.png)
 
 **Enroll Students**
@@ -11,6 +12,7 @@ Our system allows you to easily capture student information, including:
 
 **Track Annual Registration Renewal**
 Our system allows you to easily keep track of annual student registration renewal, making sure that your records are always up to date and accurate.
+Screenshot of lists showing all the added students to the class -
 ![Screenshot of My Project](screenshot2.png)
 
 **Track Immunization Anniversaries**
@@ -18,14 +20,17 @@ Our system allows you to easily track student immunization anniversaries by impo
 
 **Assign Students to Teachers**
 Our system allows you to assign students to teachers according to state regulations, making sure that your daycare center is always in compliance.
+Screenshot showing all the teachers assigned to each classroom -
 ![Screenshot of My Project](screenshot3.png)
 
 **Assign Student/Teacher Groups to Classrooms**
 Our system allows you to easily assign student and teacher groups to classrooms according to state regulations, making sure that your daycare center is always in compliance.
+Screenshot showing all the classrooms with the number of students and the age group -
 ![Screenshot of My Project](screenshot4.png)
 
 **Track Annual Employee Review**
 Our system allows you to easily track annual employee review, allowing you to manage your staff and maintain the best possible working environment.
+Screenshot of the Immunization tab which show the number of doses taken and als the dat of the next dose to be taken -
 ![Screenshot of My Project](screenshot5.png)
 
 We hope that you find our Daycare Student Registration and Management System to be a valuable tool in managing your daycare center student registration and compliance with state regulations.
